@@ -4,8 +4,9 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE
-Student ID: USTH-ID
+Student Name: NOT-VIETNAMESE.
+
+Student ID: USTH-ID.
 
 ===
 

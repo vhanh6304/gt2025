@@ -4,10 +4,8 @@ Push your project here.
 
 ===
 
-Student Name: NOT-VIETNAMESE.
+Student Name: Vu Hung Anh
 
-Student ID: USTH-ID.
+Student ID: 22BI13045
 
 ===
-
-Good luck!!!
